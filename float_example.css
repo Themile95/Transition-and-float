@@ -1,0 +1,46 @@
+.division_1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  margin-right: 70px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+body {
+  margin: 0;
+}
+header {
+  background-color: rgb(251, 176, 149);
+}
+a {
+  text-decoration: none;
+  color: purple;
+}
+img {
+  height: 60px;
+  width: 70px;
+  margin-right: 60px;
+}
+#imager-1 {
+  width: 300px;
+  height: 250px;
+}
+#p12 {
+  margin-left: 306px;
+  margin-top: -250px;
+}
+#h12 {
+  margin-top: 50px;
+}
+#imager-2 {
+  width: 300px;
+  height: 250px;
+  position: absolute;
+  left: 1020px;
+  top: 360px;
+}
+#parar {
+  margin-right: 350px;
+}
